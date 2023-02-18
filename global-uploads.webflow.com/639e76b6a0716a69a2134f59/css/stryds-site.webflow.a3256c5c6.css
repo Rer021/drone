@@ -4767,7 +4767,7 @@ a {
   opacity: 1;
   font-family: 'Fontsfree net sfprodisplay', sans-serif;
   color: #fdfdfd;
-  font-size: 420px;
+  font-size: 150px;
   line-height: 100%;
   font-weight: 400;
   letter-spacing: -3px;
@@ -5769,7 +5769,7 @@ a {
   }
 
   .hero-background__heading {
-    font-size: 420px;
+    font-size: 150px;
   }
 
   .link__wrapper.is--not-homepage {
@@ -6101,7 +6101,7 @@ a {
   }
 
   .hero-background__heading {
-    font-size: 450px;
+    font-size: 150px;
   }
 
   .link__wrapper.is--not-homepage {
@@ -10183,7 +10183,7 @@ a {
     bottom: auto;
     display: block;
     opacity: 0;
-    font-size: 90px;
+    font-size: 60px;
     letter-spacing: -2px;
   }
 
